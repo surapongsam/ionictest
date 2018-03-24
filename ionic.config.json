@@ -1,8 +1,0 @@
-{
-  "name": "payka",
-  "app_id": "c01372e3",
-  "type": "ionic-angular",
-  "integrations": {
-    "cordova": {}
-  }
-}
